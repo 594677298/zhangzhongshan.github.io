@@ -45,6 +45,6 @@
 
 
 
-  [1]: https://github-laziji.github.io
+  [1]: https://zhangzhongshan.github.io
   [2]: https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
   [3]: https://github.com/GitHub-Laziji/vblog
